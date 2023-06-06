@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">controles</string>
+    <string name="textDatos">Datos</string>
+    <string name="him_nombre">Ingresa tu Nombre</string>
+    <string name="him_email">Ingresa su Email</string>
+    <string name="him_domicilio">Ingresa su domicilio</string>
+    <string name="texthorario">Horario</string>
+</resources>
